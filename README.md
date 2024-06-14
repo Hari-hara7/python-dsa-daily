@@ -1,1 +1,1 @@
-# 30-Days-of-JAVA-DSA-
+# 30-Days-of-PYTHON-DSA-
